@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\practiceUp\practiceUp\bin\Debug\net5.0\practiceUp.exe
+C:\Users\user\source\repos\practiceUp\practiceUp\bin\Debug\net5.0\practiceUp.deps.json
+C:\Users\user\source\repos\practiceUp\practiceUp\bin\Debug\net5.0\practiceUp.runtimeconfig.json
+C:\Users\user\source\repos\practiceUp\practiceUp\bin\Debug\net5.0\practiceUp.runtimeconfig.dev.json
+C:\Users\user\source\repos\practiceUp\practiceUp\bin\Debug\net5.0\practiceUp.dll
+C:\Users\user\source\repos\practiceUp\practiceUp\bin\Debug\net5.0\ref\practiceUp.dll
+C:\Users\user\source\repos\practiceUp\practiceUp\bin\Debug\net5.0\practiceUp.pdb
+C:\Users\user\source\repos\practiceUp\practiceUp\obj\Debug\net5.0\practiceUp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\practiceUp\practiceUp\obj\Debug\net5.0\practiceUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\practiceUp\practiceUp\obj\Debug\net5.0\practiceUp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\practiceUp\practiceUp\obj\Debug\net5.0\practiceUp.AssemblyInfo.cs
+C:\Users\user\source\repos\practiceUp\practiceUp\obj\Debug\net5.0\practiceUp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\practiceUp\practiceUp\obj\Debug\net5.0\practiceUp.dll
+C:\Users\user\source\repos\practiceUp\practiceUp\obj\Debug\net5.0\ref\practiceUp.dll
+C:\Users\user\source\repos\practiceUp\practiceUp\obj\Debug\net5.0\practiceUp.pdb
+C:\Users\user\source\repos\practiceUp\practiceUp\obj\Debug\net5.0\practiceUp.genruntimeconfig.cache

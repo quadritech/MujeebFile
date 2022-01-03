@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5088bb67-dcf6-4f86-b4ff-5f048d3f28e0": {
+      "ProjectGuid": "5088bb67-dcf6-4f86-b4ff-5f048d3f28e0",
+      "DisplayName": "practiceUp",
+      "ColorIndex": 0
+    },
+    "4a7e0924-d247-4f6b-a713-5726b7390106": {
+      "ProjectGuid": "4a7e0924-d247-4f6b-a713-5726b7390106",
+      "DisplayName": "FileHierarcchy",
+      "ColorIndex": 1
+    },
+    "9686eeaf-aea6-474a-aae3-896642872ac4": {
+      "ProjectGuid": "9686eeaf-aea6-474a-aae3-896642872ac4",
+      "DisplayName": "Quadritech",
+      "ColorIndex": 2
+    },
+    "536e9131-f717-4307-a78b-e3f5ecdfd5fb": {
+      "ProjectGuid": "536e9131-f717-4307-a78b-e3f5ecdfd5fb",
+      "DisplayName": "Aboru",
+      "ColorIndex": 3
+    },
+    "c84480ba-f6e7-452c-b3ee-18e2b449b1a4": {
+      "ProjectGuid": "c84480ba-f6e7-452c-b3ee-18e2b449b1a4",
+      "DisplayName": "CourseRegister",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
