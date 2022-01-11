@@ -10,6 +10,6 @@ namespace Aboru
     {
 
         int AdditionCalculator(AdditionCalculatorModel model);
-        public int CalculateAverage(CalculateAverageModel model);
+        int CalculateAverage(CalculateAverageModel model);
     }
 }

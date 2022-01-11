@@ -14,10 +14,7 @@ namespace CourseRegister
         {
             _StudentService = StudentService;
         }
-        public CourseService()
-        {
-
-        }
+       
 
         public string CreateCourse(CreateCourseModel model)
         {

@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\practiceUp\Aboru\bin\Debug\net5.0\Aboru.deps.json
+C:\Users\user\source\repos\practiceUp\Aboru\bin\Debug\net5.0\Aboru.dll
+C:\Users\user\source\repos\practiceUp\Aboru\bin\Debug\net5.0\ref\Aboru.dll
+C:\Users\user\source\repos\practiceUp\Aboru\bin\Debug\net5.0\Aboru.pdb
+C:\Users\user\source\repos\practiceUp\Aboru\obj\Debug\net5.0\Aboru.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\practiceUp\Aboru\obj\Debug\net5.0\Aboru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\practiceUp\Aboru\obj\Debug\net5.0\Aboru.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\practiceUp\Aboru\obj\Debug\net5.0\Aboru.AssemblyInfo.cs
+C:\Users\user\source\repos\practiceUp\Aboru\obj\Debug\net5.0\Aboru.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\practiceUp\Aboru\obj\Debug\net5.0\Aboru.dll
+C:\Users\user\source\repos\practiceUp\Aboru\obj\Debug\net5.0\ref\Aboru.dll
+C:\Users\user\source\repos\practiceUp\Aboru\obj\Debug\net5.0\Aboru.pdb

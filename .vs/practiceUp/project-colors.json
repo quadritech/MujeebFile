@@ -25,7 +25,22 @@
       "ProjectGuid": "c84480ba-f6e7-452c-b3ee-18e2b449b1a4",
       "DisplayName": "CourseRegister",
       "ColorIndex": 4
+    },
+    "b443149d-4855-4842-a02c-14a97d1baf11": {
+      "ProjectGuid": "b443149d-4855-4842-a02c-14a97d1baf11",
+      "DisplayName": "MujeebApp",
+      "ColorIndex": 5
+    },
+    "bde318d3-bacd-4ffe-8017-6e6750f40876": {
+      "ProjectGuid": "bde318d3-bacd-4ffe-8017-6e6750f40876",
+      "DisplayName": "MujeebAPI",
+      "ColorIndex": 6
+    },
+    "2f11f5fa-954b-454e-ba1d-1a3b65963308": {
+      "ProjectGuid": "2f11f5fa-954b-454e-ba1d-1a3b65963308",
+      "DisplayName": "MujeebConsole",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }

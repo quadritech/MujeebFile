@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quadritech", "Quadritech\Qu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aboru", "Aboru\Aboru.csproj", "{536E9131-F717-4307-A78B-E3F5ECDFD5FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseRegister", "CourseRegister\CourseRegister.csproj", "{C84480BA-F6E7-452C-B3EE-18E2B449B1A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseRegister", "CourseRegister\CourseRegister.csproj", "{C84480BA-F6E7-452C-B3EE-18E2B449B1A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MujeebAPI", "MujeebAPI\MujeebAPI.csproj", "{BDE318D3-BACD-4FFE-8017-6E6750F40876}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C84480BA-F6E7-452C-B3EE-18E2B449B1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C84480BA-F6E7-452C-B3EE-18E2B449B1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C84480BA-F6E7-452C-B3EE-18E2B449B1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE318D3-BACD-4FFE-8017-6E6750F40876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE318D3-BACD-4FFE-8017-6E6750F40876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE318D3-BACD-4FFE-8017-6E6750F40876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE318D3-BACD-4FFE-8017-6E6750F40876}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
