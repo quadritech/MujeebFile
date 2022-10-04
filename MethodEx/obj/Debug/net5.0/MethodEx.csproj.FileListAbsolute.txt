@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\practiceUp\MethodEx\bin\Debug\net5.0\MethodEx.exe
+C:\Users\user\source\repos\practiceUp\MethodEx\bin\Debug\net5.0\MethodEx.deps.json
+C:\Users\user\source\repos\practiceUp\MethodEx\bin\Debug\net5.0\MethodEx.runtimeconfig.json
+C:\Users\user\source\repos\practiceUp\MethodEx\bin\Debug\net5.0\MethodEx.runtimeconfig.dev.json
+C:\Users\user\source\repos\practiceUp\MethodEx\bin\Debug\net5.0\MethodEx.dll
+C:\Users\user\source\repos\practiceUp\MethodEx\bin\Debug\net5.0\ref\MethodEx.dll
+C:\Users\user\source\repos\practiceUp\MethodEx\bin\Debug\net5.0\MethodEx.pdb
+C:\Users\user\source\repos\practiceUp\MethodEx\obj\Debug\net5.0\MethodEx.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\practiceUp\MethodEx\obj\Debug\net5.0\MethodEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\practiceUp\MethodEx\obj\Debug\net5.0\MethodEx.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\practiceUp\MethodEx\obj\Debug\net5.0\MethodEx.AssemblyInfo.cs
+C:\Users\user\source\repos\practiceUp\MethodEx\obj\Debug\net5.0\MethodEx.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\practiceUp\MethodEx\obj\Debug\net5.0\MethodEx.dll
+C:\Users\user\source\repos\practiceUp\MethodEx\obj\Debug\net5.0\ref\MethodEx.dll
+C:\Users\user\source\repos\practiceUp\MethodEx\obj\Debug\net5.0\MethodEx.pdb
+C:\Users\user\source\repos\practiceUp\MethodEx\obj\Debug\net5.0\MethodEx.genruntimeconfig.cache
